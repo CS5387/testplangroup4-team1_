@@ -1,0 +1,259 @@
+<DATABASE name='TEST_DB'>
+  <TABLE name='TYPE_TABLE'>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>1</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>2</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>3</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>4</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>5</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>6</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>7</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>8</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>9</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>a</Field_Character>
+    <FIELD_SMALLINT>10</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>Compress_Coef</Field_Character>
+    <FIELD_SMALLINT>1</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>Compress_Coef</Field_Character>
+    <FIELD_SMALLINT>2</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>Compress_Coef</Field_Character>
+    <FIELD_SMALLINT>3</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>c</Field_Character>
+    <FIELD_SMALLINT>1</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>b</Field_Character>
+    <FIELD_SMALLINT>1</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>c</Field_Character>
+    <FIELD_SMALLINT>2</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>b</Field_Character>
+    <FIELD_SMALLINT>2</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>c</Field_Character>
+    <FIELD_SMALLINT>3</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>b</Field_Character>
+    <FIELD_SMALLINT>3</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>c</Field_Character>
+    <FIELD_SMALLINT>4</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>b</Field_Character>
+    <FIELD_SMALLINT>4</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>c</Field_Character>
+    <FIELD_SMALLINT>5</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>b</Field_Character>
+    <FIELD_SMALLINT>5</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>OSTC</Field_Character>
+    <FIELD_SMALLINT>1</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>FRTTS</Field_Character>
+    <FIELD_SMALLINT>1</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>OSTC</Field_Character>
+    <FIELD_SMALLINT>2</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>FRTTS</Field_Character>
+    <FIELD_SMALLINT>2</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>OSTC</Field_Character>
+    <FIELD_SMALLINT>3</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>FRTTS</Field_Character>
+    <FIELD_SMALLINT>3</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>OUNDTi</Field_Character>
+    <FIELD_SMALLINT>1</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>MNJUHY</Field_Character>
+    <FIELD_SMALLINT>1</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>OUNDTi</Field_Character>
+    <FIELD_SMALLINT>2</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>MNJUHY</Field_Character>
+    <FIELD_SMALLINT>2</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>OUNDTi</Field_Character>
+    <FIELD_SMALLINT>3</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>MNJUHY</Field_Character>
+    <FIELD_SMALLINT>3</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  <ROW>
+    <Field_Character>Gas_Constant</Field_Character>
+    <FIELD_SMALLINT>0</FIELD_SMALLINT>
+    <FIELD1_INTEGER>0</FIELD1_INTEGER>
+    <FIELD1_TINYINT>0</FIELD1_TINYINT>
+    
+  </ROW>
+  </TABLE>
+  <HISTORY>
+    <ITEM date='10/18/2011' author='Data Dump Tool' comment='Initial dump.' />
+  </HISTORY>
+</DATABASE>
